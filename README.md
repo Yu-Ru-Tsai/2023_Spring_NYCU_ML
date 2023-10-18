@@ -33,7 +33,7 @@ NYCU 2023 Machine Learning
 
 3.Baysian Linear regression
 
-   Use Baysian Linear regression to update the prior, and calculate the parameters of predictive distribution.
+  Use Baysian Linear regression to update the prior, and calculate the parameters of predictive distribution.
 
 # HW4
 
